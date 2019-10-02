@@ -1,4 +1,4 @@
-﻿Group 25
+Querying the Sales Database, Sampling Application
 
 Sung Jin Park
 * CS ID: sungp
